@@ -31,7 +31,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=onerandomd3v&color=7FFF00&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
