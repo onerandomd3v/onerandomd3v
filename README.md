@@ -16,12 +16,12 @@
 
  ##### Tools & Infrastructure
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) 
-## Projects
-- [DialAI](https://dailai.vercel.app) - Offline-first AI assistant you can access via phone (USSD, SMS, voice). Built for low-connectivity environments
-- [LineageGuard](https://github.com/coded-devs/lineageguard.git) - A deterministic impact analysis tool that predicts the downstream "blast radius" of schema changes by automatically walking your **[OpenMetadata](https://github.com/open-metadata/OpenMetadata.git)** lineage graph
-- [ArticlesOnX](https://github.com/onerandomdevv/articlesonx.git) - Download Twitter articles, convert to PDF, and save to your phone
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onerandomd3v&theme=github-dark&hide_border=true&bg_color=0D1117&color=7FFF00&line=7FFF00&point=FFFFFF&area=true&area_color=7FFF00)
+## Projects
+- [DialAI](https://dailai.vercel.app) - Offline-first AI assistant you can access via phone (USSD, SMS, voice). Built for low-connectivity environments.
+- [LineageGuard](https://github.com/coded-devs/lineageguard.git) - A deterministic impact analysis tool that predicts the downstream "blast radius" of schema changes by automatically walking your **[OpenMetadata](https://github.com/open-metadata/OpenMetadata.git)** lineage graph.
+- [AmeenFolio](https://onerandomdev.cv) My portfolio with a custom AI agent and secure MCP access.
+- [ArticlesOnX](https://github.com/onerandomdevv/articlesonx.git) - Download Twitter articles, convert to PDF, and save to your phone.
 
 <br />
 
