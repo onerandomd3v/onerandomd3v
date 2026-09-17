@@ -1,7 +1,7 @@
 <pre>
 <span style="color:#F7DF1E">Profile:</span>
 <span style="color:#888">────────────────────────────────</span>
-<span style="color:#F7DF1E">About    </span><span style="color:#888">:</span> Full-Stack Engineer, Lagos, Nigeria 🇳🇬.
+<span style="color:#F7DF1E">About    </span><span style="color:#888">:</span> Full-Stack Engineer based in Lagos, Nigeria 🇳🇬. 
 <span style="color:#F7DF1E">Portfolio</span><span style="color:#888">:</span> https://onerandomdevv.cv
 
 <span style="color:#F7DF1E">Currently Building:</span>
