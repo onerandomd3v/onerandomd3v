@@ -1,22 +1,13 @@
 <pre>
 <span style="color:#F7DF1E">Profile:</span>
 <span style="color:#888">────────────────────────────────</span>
-<span style="color:#F7DF1E">About    </span><span style="color:#888">:</span> I love fixing complex problems with simple solutions
-<span style="color:#F7DF1E">Role     </span><span style="color:#888">:</span> Full Stack Engineer
-<span style="color:#F7DF1E">Location </span><span style="color:#888">:</span> Lagos, Nigeria 🇳🇬
-<span style="color:#F7DF1E">Socials  </span><span style="color:#888">:</span> @onerandomdevv
+<span style="color:#F7DF1E">About    </span><span style="color:#888">:</span> Full-Stack Engineer, Lagos, Nigeria 🇳🇬.
 <span style="color:#F7DF1E">Portfolio</span><span style="color:#888">:</span> https://onerandomdevv.cv
-
-<span style="color:#F7DF1E">Focus:</span>
-<span style="color:#888">────────────────────────────────</span>
-<span style="color:#7FFF00">→</span> AI Products & African Market Tech
-<span style="color:#7FFF00">→</span> Startups, Business & Finance Products
-<span style="color:#7FFF00">→</span> Consumer Apps, Developer Tools, CaaS, AIaaS
 
 <span style="color:#F7DF1E">Currently Building:</span>
 <span style="color:#888">────────────────────────────────</span>
-<span style="color:#7FFF00">→</span> Twizrr  — WhatsApp Social Commerce Platform
-<span style="color:#7FFF00">→</span> DialAI  — Offline-first AI via USSD/SMS/Voice
+<span style="color:#7FFF00">→</span> Twizrr  — Social media app with business workspace.
+<span style="color:#7FFF00">→</span> DialAI  — Offline-first AI via USSD/SMS/Voice.
 </pre>
 
 ## Tech Stack:
