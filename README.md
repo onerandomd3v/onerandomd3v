@@ -19,7 +19,7 @@
                              
 
 ## Projects
-- **[Twizrr](https://twizrr.com)** — Social media app for people, creators, and businesses. I lead product and engineering, including the NestJS backend, realtime systems, caching, and launch readiness.
+- **[Twizrr](private repository)** — Social media app for people, creators, and businesses. I lead product and engineering, including the NestJS backend, realtime systems, caching, and launch readiness.
 - **[SiteThread](https://github.com/onerandomd3v/SiteThread)** — Construction field agent that turns walkthroughs into evidence-backed observations and human-reviewed reports. I worked on grounded AI reasoning, structured outputs, and workflow reliability.
 - **[Signa](https://github.com/onerandomd3v/signa)** — Real-time community intelligence with confidence-aware, relevant alerts. I lead backend architecture and worked on proximity rules, durable alert delivery, privacy, and verification.
 - **LIMBUZZ** *(private repository)* — Offline-capable Android personal-safety app. I worked on the native SOS flow, local persistence, and device reliability; V1 passed controlled physical-device validation.
