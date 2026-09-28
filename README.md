@@ -19,6 +19,10 @@
                              
 
 ## Projects
+- **[Twizrr](https://twizrr.com)** — Social media app for people, creators, and businesses. I lead product and engineering, including the NestJS backend, realtime systems, caching, and launch readiness.
+- **[SiteThread](https://github.com/onerandomd3v/SiteThread)** — Construction field agent that turns walkthroughs into evidence-backed observations and human-reviewed reports. I worked on grounded AI reasoning, structured outputs, and workflow reliability.
+- **[Signa](https://github.com/onerandomd3v/signa)** — Real-time community intelligence with confidence-aware, relevant alerts. I lead backend architecture and worked on proximity rules, durable alert delivery, privacy, and verification.
+- **LIMBUZZ** *(private repository)* — Offline-capable Android personal-safety app. I worked on the native SOS flow, local persistence, and device reliability; V1 passed controlled physical-device validation.
 - [DialAI](https://dailai.vercel.app) - Offline-first AI assistant you can access via phone (USSD, SMS, voice). Built for low-connectivity environments.
 - [LineageGuard](https://github.com/coded-devs/lineageguard.git) - A deterministic impact analysis tool that predicts the downstream "blast radius" of schema changes by automatically walking your **[OpenMetadata](https://github.com/open-metadata/OpenMetadata.git)** lineage graph.
 - [AmeenFolio](https://onerandomdev.cv) My portfolio with a custom AI agent and secure MCP access.
