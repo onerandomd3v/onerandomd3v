@@ -6,7 +6,7 @@
 
 <span style="color:#F7DF1E">Currently Building:</span>
 <span style="color:#888">────────────────────────────────</span>
-<span style="color:#7FFF00">→</span> Twizrr  — Social media app with business workspace.
+<span style="color:#7FFF00">→</span> Twizrr  — Social media app for people, creators and business.
 <span style="color:#7FFF00">→</span> DialAI  — Offline-first AI via USSD/SMS/Voice.
 </pre>
 
