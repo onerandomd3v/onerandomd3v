@@ -6,7 +6,7 @@
 - **Limbuzz** *(private repository)* — Offline peronal-safety andoid app.
 - [DialAI](https://dailai.vercel.app) - Offline-first AI assistant you can access via phone (USSD, SMS, voice).
 - [LineageGuard](https://github.com/coded-devs/lineageguard.git) - An impact analysis tool that predicts the downstream of schema changes by walking through your **[OpenMetadata](https://github.com/open-metadata/OpenMetadata.git)** lineage graph.
-- [AmeenFolio](https://onerandomdev.cv) My portfolio with a custom AI agent and secure MCP access.
+- [AmeenFolio](https://onerandomdev.cv) My portfolio with an AI CMS.
 - [ArticlesOnX](https://github.com/onerandomdevv/articlesonx.git) - Download Twitter articles, convert to PDF, and save to your phone.
 
 ## Skills
