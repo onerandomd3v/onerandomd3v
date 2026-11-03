@@ -1,11 +1,11 @@
 ## Projects
 - **Twizrr** *(private repository)* — Social media app for people, creators, and businesses.
-- **[FishEye](https://github.com/onerandomd3v/FishEye)** — Cybersecurity system for contextual detection and explainable investigation of suspicious insider banking activity, evaluated using synthetic data.
+- **[FishEye](https://github.com/onerandomd3v/FishEye)** — Cybersecurity system for contextual detection and explainable investigation of suspicious insider banking activity.
 - **[SiteThread](https://github.com/onerandomd3v/SiteThread)** — Construction field agent that turns Long site videos into project reports. 
-- **[Signa](https://github.com/onerandomd3v/signa)** — Real-time community intelligence, relevant alerts. 
-- **LIMBUZZ** *(private repository)* — Offline peronal-safety andoid app. I Built and Lead the development of LimBuzz by Limabuzz Technologies and Innovations.
+- **[Signa](https://github.com/onerandomd3v/signa)** — Real-time community intelligence, with relevant alerts. 
+- **Limbuzz** *(private repository)* — Offline peronal-safety andoid app.
 - [DialAI](https://dailai.vercel.app) - Offline-first AI assistant you can access via phone (USSD, SMS, voice).
-- [LineageGuard](https://github.com/coded-devs/lineageguard.git) - A deterministic impact analysis tool that predicts the downstream "blast radius" of schema changes by automatically walking your **[OpenMetadata](https://github.com/open-metadata/OpenMetadata.git)** lineage graph.
+- [LineageGuard](https://github.com/coded-devs/lineageguard.git) - An impact analysis tool that predicts the downstream of schema changes by walking through your **[OpenMetadata](https://github.com/open-metadata/OpenMetadata.git)** lineage graph.
 - [AmeenFolio](https://onerandomdev.cv) My portfolio with a custom AI agent and secure MCP access.
 - [ArticlesOnX](https://github.com/onerandomdevv/articlesonx.git) - Download Twitter articles, convert to PDF, and save to your phone.
 
