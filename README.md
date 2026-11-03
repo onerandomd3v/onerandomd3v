@@ -22,7 +22,7 @@
 <pre>
 <span style="color:#F7DF1E">Abut ME:</span>
 <span style="color:#888">────────────────────────────────</span>
-I am a Full-Stack Software Engineer building web and mobile applications, integrated with intelligent systems and workflows. 
+I am a Full-Stack Software Engineer building web and mobile applications, integrated with intelligent systems and workflows.
 
 <span style="color:#F7DF1E">Currently Building:</span>
 <span style="color:#888">────────────────────────────────</span>
