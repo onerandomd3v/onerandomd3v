@@ -1,9 +1,9 @@
 ## Projects
-- **Twizrr** *(private repository)* — Social media app for people, creators, and businesses.
+- **Twizrr** *(private repo)* — Social media app for people, creators, and businesses.
 - **[FishEye](https://github.com/onerandomd3v/FishEye)** — Cybersecurity system for contextual detection and explainable investigation of suspicious insider banking activity.
 - **[SiteThread](https://github.com/onerandomd3v/SiteThread)** — Construction field agent that turns Long site videos into project reports. 
 - **[Signa](https://github.com/onerandomd3v/signa)** — Real-time community intelligence, with relevant alerts. 
-- **Limbuzz** *(private repository)* — Offline peronal-safety andoid app.
+- **Limbuzz** *(private repo)* — Offline peronal-safety andoid app.
 - [DialAI](https://dailai.vercel.app) - Offline-first AI assistant you can access via phone (USSD, SMS, voice).
 - [LineageGuard](https://github.com/coded-devs/lineageguard.git) - An impact analysis tool that predicts the downstream of schema changes by walking through your **[OpenMetadata](https://github.com/open-metadata/OpenMetadata.git)** lineage graph.
 - [AmeenFolio](https://onerandomdev.cv) My portfolio with an AI CMS.
