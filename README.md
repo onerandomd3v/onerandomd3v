@@ -18,11 +18,11 @@
 ### Infrastructure & Observability : ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![k6](https://img.shields.io/badge/-k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
 ### Workflow : ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linear](https://img.shields.io/badge/-Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
 
+## ME
 <pre>
-<span style="color:#F7DF1E">Profile:</span>
+<span style="color:#F7DF1E">Abut ME:</span>
 <span style="color:#888">────────────────────────────────</span>
-<span style="color:#F7DF1E">About    </span><span style="color:#888">:</span> Full-Stack Engineer based in Lagos, Nigeria 🇳🇬. 
-<span style="color:#F7DF1E">Portfolio</span><span style="color:#888">:</span> (https://onerandomdev.cv)
+I am a Full-Stack Software Engineer building web and mobile applications, integrated with durable and intelligent systems. 
 
 <span style="color:#F7DF1E">Currently Building:</span>
 <span style="color:#888">────────────────────────────────</span>
